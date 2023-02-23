@@ -11,7 +11,7 @@ This means that when someone signs in front of the webcam, the model can predict
 Here's the medium blog for this repo - [Blog link](https://medium.com/@kunalmishra78/signs-speak-louder-than-words-de0197780c95)
 
 ``` diff
-Please follow below instructions to run the code
++ Please follow below instructions to run the code
 - Change the data set path in main.py 
 - pip intall -r requirements.txt
 - python main.py
