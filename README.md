@@ -25,3 +25,5 @@ Here's the results
 
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/99056351/220795800-0eb0d3f9-cb83-4ee0-861f-ddbb766a6702.gif)
+
+Feel free to reach out to me in case of some issues - kunalmishra78@gmail.com
